@@ -32,7 +32,9 @@ The **Movie Sales Analysis Dashboard** provides an interactive view of:
 ---
 
 ## 🖼️ Dashboard Preview
-*(Add an image of your dashboard once uploaded)*  
-Example:
-```markdown
-![Dashboard Overview](dashboard_overview.png)
+1. <img width="1169" height="657" alt="image" src="https://github.com/user-attachments/assets/321076fc-580a-47ab-9779-c646816bd9a8" />
+2. <img width="1163" height="732" alt="image" src="https://github.com/user-attachments/assets/a7ac96fa-484b-45b1-8795-991193c00c49" />
+3.<img width="1157" height="687" alt="image" src="https://github.com/user-attachments/assets/3cf0740c-a200-42e5-8567-e426f085ef0e" />
+
+
+
